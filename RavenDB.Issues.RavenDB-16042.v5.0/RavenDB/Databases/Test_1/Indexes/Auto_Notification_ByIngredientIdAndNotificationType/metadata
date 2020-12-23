@@ -1,0 +1,1 @@
+{"Name":"Auto/Notification/ByIngredientIdAndNotificationType","Collections":["Notification"],"LockMode":0,"Priority":1,"MapFields":[{"Name":"IngredientId","Indexing":"Default","Aggregation":0,"Spatial":null,"HasSuggestions":false},{"Name":"NotificationType","Indexing":"Default","Aggregation":0,"Spatial":null,"HasSuggestions":false}]}

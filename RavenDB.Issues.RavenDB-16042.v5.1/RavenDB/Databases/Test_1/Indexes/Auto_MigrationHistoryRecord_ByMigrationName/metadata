@@ -1,0 +1,1 @@
+{"Name":"Auto/MigrationHistoryRecord/ByMigrationName","Collections":["MigrationHistoryRecord"],"LockMode":0,"Priority":1,"MapFields":[{"Name":"MigrationName","Indexing":"Default","Aggregation":0,"Spatial":null,"HasSuggestions":false}]}

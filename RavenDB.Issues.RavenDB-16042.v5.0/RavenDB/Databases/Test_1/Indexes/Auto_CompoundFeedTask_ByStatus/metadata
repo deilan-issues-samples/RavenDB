@@ -1,0 +1,1 @@
+{"Name":"Auto/CompoundFeedTask/ByStatus","Collections":["CompoundFeedTask"],"LockMode":0,"Priority":1,"MapFields":[{"Name":"Status","Indexing":"Default","Aggregation":0,"Spatial":null,"HasSuggestions":false}]}
