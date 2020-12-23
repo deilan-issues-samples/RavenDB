@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RavenDB.Issues.RavenDB-1604
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RavenDB.Issues.RavenDB-16042.v4.2", "RavenDB.Issues.RavenDB-16042.v4.2\RavenDB.Issues.RavenDB-16042.v4.2.csproj", "{95FD46D4-448E-46EC-87EB-36C432F73E63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenDB.Issues.RavenDB-16042.Common", "RavenDB.Issues.RavenDB-16042.Common\RavenDB.Issues.RavenDB-16042.Common.csproj", "{280E23EE-A895-4A77-99B8-554F444B9641}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{95FD46D4-448E-46EC-87EB-36C432F73E63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95FD46D4-448E-46EC-87EB-36C432F73E63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95FD46D4-448E-46EC-87EB-36C432F73E63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{280E23EE-A895-4A77-99B8-554F444B9641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280E23EE-A895-4A77-99B8-554F444B9641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280E23EE-A895-4A77-99B8-554F444B9641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280E23EE-A895-4A77-99B8-554F444B9641}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

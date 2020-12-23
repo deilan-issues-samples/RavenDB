@@ -23,4 +23,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\RavenDB.Issues.RavenDB-16042.Common\RavenDB.Issues.RavenDB-16042.Common.csproj" />
+  </ItemGroup>
+
 </Project>
