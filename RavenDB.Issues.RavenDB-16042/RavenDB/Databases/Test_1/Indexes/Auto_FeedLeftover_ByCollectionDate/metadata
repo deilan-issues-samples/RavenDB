@@ -1,0 +1,1 @@
+{"Name":"Auto/FeedLeftover/ByCollectionDate","Collections":["FeedLeftover"],"LockMode":0,"Priority":1,"MapFields":[{"Name":"CollectionDate","Indexing":"Default","Aggregation":0,"Spatial":null,"HasSuggestions":false}]}

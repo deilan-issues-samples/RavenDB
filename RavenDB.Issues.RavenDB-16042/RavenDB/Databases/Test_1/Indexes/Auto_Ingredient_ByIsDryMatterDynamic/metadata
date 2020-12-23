@@ -1,0 +1,1 @@
+{"Name":"Auto/Ingredient/ByIsDryMatterDynamic","Collections":["Ingredient"],"LockMode":0,"Priority":1,"MapFields":[{"Name":"IsDryMatterDynamic","Indexing":"Default","Aggregation":0,"Spatial":null,"HasSuggestions":false}]}
