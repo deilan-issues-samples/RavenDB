@@ -1,9 +1,5 @@
 using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.IO;
 using System.Linq;
-using System.Text.RegularExpressions;
 using NodaTime;
 using Raven.Client.Documents.Conventions;
 using Raven.Client.NodaTime;
