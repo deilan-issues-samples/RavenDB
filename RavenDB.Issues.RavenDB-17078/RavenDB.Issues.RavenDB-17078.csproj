@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>RavenDB.Issues.RavenDB_X</RootNamespace>
+    <RootNamespace>RavenDB.Issues.RavenDB_17078</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
