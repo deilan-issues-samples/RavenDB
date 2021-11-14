@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>RavenDB.Issues.RavenDB_17496</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="raven-license.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="raven-license.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RavenDB.Embedded" Version="4.2.117" />
+  </ItemGroup>
+
+</Project>
